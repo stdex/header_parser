@@ -1,0 +1,5 @@
+void deletetail(char *inptr);
+void deletetailr(char *inptr);
+void _fpreset (void);
+void fpreset (void);
+double __cdecl_copysign (double, double);
